@@ -2,8 +2,6 @@ const asyncHandler = require('express-async-handler')
 
 const Image = require('../models/imageModel')
 
-
-
 // @desc    Get images
 // @route   GET /api/images
 // @access  Private 
